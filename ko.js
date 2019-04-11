@@ -3,9 +3,11 @@ const alfy = require('alfy');
 const Inko = require('inko');
 const inko = new Inko();
 
-let item = [{
-    title: inko.ko2en(alfy.input),
-    arg: inko.ko2en(alfy.input),
+
+const result = inko.ko2en(alfy.input);
+const item = [{
+    title: result,
+    arg: result,
     icon: {
         path: './icon.png'
     }
