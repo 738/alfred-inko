@@ -17,6 +17,7 @@
   "author": "Jon Jee",
   "license": "MIT",
   "dependencies": {
-    "alfy": "^0.8.0"
+    "alfy": "^0.8.0",
+    "inko": "^1.0.6"
   }
 }
