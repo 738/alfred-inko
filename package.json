@@ -1,0 +1,22 @@
+{
+  "name": "alfred-inko",
+  "version": "0.1.0",
+  "description": "Alfred 3 Workflow to convert misspelled english characters into korean letters (& vice versa)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:738/alfred-inko.git"
+  },
+  "keywords": [
+    "alfred",
+    "inko"
+  ],
+  "author": "Jon Jee",
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.8.0"
+  }
+}
