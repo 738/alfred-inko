@@ -2,6 +2,8 @@
 
 > [Alfred 3](https://www.alfredapp.com/) Workflow to convert misspelled english characters into korean letters (& vice versa)
 
+![screenshot](./screenshot.png)
+
 ## Related
 
 * [inko](https://github.com/738/inko)
