@@ -7,7 +7,7 @@ let item = [{
     title: inko.en2ko(alfy.input),
     arg: inko.en2ko(alfy.input),
     icon: {
-        path: ' '
+        path: './inko_logo.png'
     }
 }];
 
