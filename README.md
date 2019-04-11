@@ -1,4 +1,4 @@
-# alfred-inko
+# alfred-inko - [Download](https://github.com/738/alfred-inko/blob/master/alfred-inko-0.1.alfredworkflow?raw=true)
 
 > [Alfred 3](https://www.alfredapp.com/) Workflow to convert misspelled english characters into korean letters (& vice versa)
 
