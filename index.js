@@ -6,6 +6,7 @@ const inko = new Inko();
 const result = inko.en2ko(alfy.input);
 const item = [{
     title: result,
+    subtitle: `Copy "${result}" to clipboard`,
     arg: result,
     icon: {
         path: './icon.png'
